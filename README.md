@@ -6,7 +6,7 @@ This project showcases my personal information, skills, projects, education, and
 
 ## 🔗 Live Project
 
-👉 [**View Website**](https://tirtha-sarkar.github.io/Portfollio_Add_CSS/)
+👉 [**View Website**](https://tirtha-sarkar.github.io/Personal-Portfolio-Website-using-HTML_CSS/)
 
 ## ✨ Features
 
@@ -48,6 +48,6 @@ Green University of Bangladesh
 
 ## 🔗 Live Project
 
-👉 [**View Website**](https://tirtha-sarkar.github.io/Portfollio_Add_CSS/)
+👉 [**View Website**](https://tirtha-sarkar.github.io/Personal-Portfolio-Website-using-HTML_CSS/)
 
 ⭐ **Thanks for visiting my portfolio project!**
