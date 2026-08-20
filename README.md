@@ -1,27 +1,53 @@
-## Basic Css
+# Personal Portfolio Website
 
-- introduction css
-- ways to add CSS - inline, internal, external
-- CSS sytex Selector and combinator - 
-- CSS3 variable
-- Css specificity
-       =/* a= number of ids */
-        /* b= number of class, pseudo class, attributes */
-        /* c = number of elements, pseudo element */
- 
-- Topography - font, text, color, icon
-- Box model - margin, border, padding, content
-- Background properties
-- Basic layout - float, positioning
-- Design a card
+A clean and responsive **Personal Portfolio Website** built using **HTML5 and CSS3**.
 
-### background Properties
+This project showcases my personal information, skills, projects, education, and web development journey through a simple and professional portfolio design.
 
-- Basic layout - display property - inline, block,
-inline-block, float, positioning, flex, 
-- responsiveness
+## 🔗 Live Project
 
-### Advanced CSS
-- transition
-- animation
-- grid
+👉 [**View Website**](https://tirtha-sarkar.github.io/Portfollio_Add_CSS/)
+
+## ✨ Features
+
+* 👤 Personal Introduction
+* 🎓 Education Information
+* 💻 Skills & Technologies
+* 🚀 Projects Showcase
+* 📱 Responsive Design
+* 🎨 Clean & Modern UI
+* 📩 Contact Section
+
+## 🛠️ Technologies Used
+
+* **HTML5**
+* **CSS3**
+
+## 📂 Project Structure
+
+```text
+Portfollio_Add_CSS/
+│
+├── index.html
+├── style.css
+├── images/
+│   └── ...
+└── README.md
+```
+
+## 🎯 Purpose
+
+The main purpose of this project is to create a professional personal portfolio website and showcase my skills and projects as a web development learner.
+
+## 👨‍💻 Developer
+
+**Tirtha Babu Sarkar**
+
+Computer Science & Engineering
+Green University of Bangladesh
+
+## 🔗 Live Project
+
+👉 [**View Website**](https://tirtha-sarkar.github.io/Portfollio_Add_CSS/)
+
+⭐ **Thanks for visiting my portfolio project!**
